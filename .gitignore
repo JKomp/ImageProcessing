@@ -1,3 +1,7 @@
 .ipynb_checkpoints*
 *.zip
+*.pcd
+*.pts
+*.xyz
+*.ply
 .DS_Store
